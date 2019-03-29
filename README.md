@@ -1,1 +1,3 @@
-# interval_counter
+# Interval Scheduling Collision Counter
+
+See the notebook for details. 
